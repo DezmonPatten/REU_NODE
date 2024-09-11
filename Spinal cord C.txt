@@ -1,0 +1,167 @@
+Component                                                Latest Ref Rng & Units                   1/12/2022             8/25/2021             5/19/2021             4/21/2021             
+                                                                                                   3:35 PM               2:38 PM              12:32 PM               1:02 PM              
+Sodium                                                   136 - 144 mmol/L                         141                   140                   138                   139                   
+Potassium                                                3.3 - 5.3 mmol/L                         4.0                   4.0                   4.0                   3.9                   
+Chloride                                                 98 - 107 mmol/L                          105                   103                   104                   104                   
+CO2                                                      20 - 30 mmol/L                           25                    27                    25                    26                    
+Anion Gap                                                7 - 17                                   11                    10                    9                     9                     
+Glucose                                                  70 - 100 mg/dL                           97                    91                    81                    92                    
+BUN                                                      5 - 18 mg/dL                             16                    10                    8                     9                     
+Creatinine                                               0.50 - 1.00 mg/dL                        0.42 (L)              0.37                  0.41                  0.40                  
+Calcium                                                  8.8 - 10.2 mg/dL                         9.7                   9.8                   9.9                   10.2                  
+BUN/Creatinine Ratio                                     8.0 - 23.0                               38.1 (H)              27.0 (H)              19.5                  22.5                  
+Total Protein                                            6.6 - 8.7 g/dL                           7.4                   7.4                   7.4                   7.5                   
+Albumin                                                  3.6 - 4.9 g/dL                           4.5                   4.6                   4.8                   4.4                   
+Total Bilirubin                                          <=1.2 mg/dL                              0.3                   0.3                   0.3                   0.3                   
+Alkaline Phosphatase                                     50 - 480 U/L                             126                   143                   117                   116                   
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              12                    18                    12                    10 (L)                
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              25 (L)                27                    26                    22 (L)                
+Globulin                                                 2.3 - 3.5 g/dL                           2.9                   2.8                   2.6                   3.1                   
+A/G Ratio                                                1.0 - 2.2                                1.6                   1.6                   1.8                   1.4                   
+AST/ALT Ratio                                            See Comment                              2.1                   1.5                   2.2                   2.2                   
+eGFR (Afr Amer)                                                                                                                                                                           
+eGFR (NON African-American)                                                                                                                                                               
+
+Component                                                Latest Ref Rng & Units                   3/10/2021             2/10/2021             1/13/2021             12/2/2020             
+                                                                                                   1:24 PM               1:11 PM              10:29 AM               1:52 PM              
+Sodium                                                   136 - 144 mmol/L                         138                   141                   139                   141                   
+Potassium                                                3.3 - 5.3 mmol/L                         3.6                   3.8                   4.3                   4.3                   
+Chloride                                                 98 - 107 mmol/L                          105                   105                   103                   106                   
+CO2                                                      20 - 30 mmol/L                           24                    25                    25                    26                    
+Anion Gap                                                7 - 17                                   9                     11                    11                    9                     
+Glucose                                                  70 - 100 mg/dL                           92                    81                    83                    89                    
+BUN                                                      5 - 18 mg/dL                             7                     10                    7                     10                    
+Creatinine                                               0.50 - 1.00 mg/dL                        0.37                  0.39                  0.41                  0.43                  
+Calcium                                                  8.8 - 10.2 mg/dL                         9.5                   9.8                   10.0                  10.0                  
+BUN/Creatinine Ratio                                     8.0 - 23.0                               18.9                  25.6 (H)              17.1                  23.3 (H)              
+Total Protein                                            6.6 - 8.7 g/dL                           7.3                   7.3                   7.0                   7.4                   
+Albumin                                                  3.6 - 4.9 g/dL                           4.7                   4.7                   4.6                   4.5                   
+Total Bilirubin                                          <=1.2 mg/dL                              0.4                   0.4                   0.3                   0.3                   
+Alkaline Phosphatase                                     50 - 480 U/L                             100                   112                   115                   183                   
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              11 (L)                16                    15                    14                    
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              22 (L)                25 (L)                24 (L)                25 (L)                
+Globulin                                                 2.3 - 3.5 g/dL                           2.6                   2.6                   2.4                   2.9                   
+A/G Ratio                                                1.0 - 2.2                                1.8                   1.8                   1.9                   1.6                   
+AST/ALT Ratio                                            See Comment                              2.0                   1.6                   1.6                   1.8                   
+eGFR (Afr Amer)                                                                                                                                                                           
+eGFR (NON African-American)                                                                                                                                                               
+
+Component                                                Latest Ref Rng & Units                   10/17/2020              8/13/2020             7/16/2020             6/18/2020             
+                                                                                                   3:26 PM                 3:50 PM               2:21 PM               2:37 PM              
+Sodium                                                   136 - 144 mmol/L                         142                     139                   142                   139                   
+Potassium                                                3.3 - 5.3 mmol/L                         4.0                     3.8                   4.3                   4.2                   
+Chloride                                                 98 - 107 mmol/L                          107                     101                   104                   104                   
+CO2                                                      20 - 30 mmol/L                           23                      24                    26                    24                    
+Anion Gap                                                7 - 17                                   12                      14                    12                    11                    
+Glucose                                                  70 - 100 mg/dL                           113 (H)                 127 (H)               90                    116 (H)               
+BUN                                                      5 - 18 mg/dL                             9                       10                    11                    12                    
+Creatinine                                               0.50 - 1.00 mg/dL                        0.33                    0.35                  0.35                  0.36                  
+Calcium                                                  8.8 - 10.2 mg/dL                         9.7                     9.9                   9.7                   9.6                   
+BUN/Creatinine Ratio                                     8.0 - 23.0                               27.3 (H)                28.6 (H)              31.4 (H)              33.3 (H)              
+Total Protein                                            6.6 - 8.7 g/dL                           6.9                     7.3                   6.9                   6.8                   
+Albumin                                                  3.6 - 4.9 g/dL                           4.4                     4.5                   4.4                   4.1                   
+Total Bilirubin                                          <=1.2 mg/dL                              0.2                     0.4                   0.3                   0.2                   
+Alkaline Phosphatase                                     50 - 480 U/L                             215                     238                   214                   210                   
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              16                      19                    16                    14                    
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              33                      32                    31                    27                    
+Globulin                                                 2.3 - 3.5 g/dL                           2.5                     2.8                   2.5                   2.7                   
+A/G Ratio                                                1.0 - 2.2                                1.8                     1.6                   1.8                   1.5                   
+AST/ALT Ratio                                            See Comment                              2.1                     1.7                   1.9                   1.9                   
+eGFR (Afr Amer)                                                                                                                                                                             
+eGFR (NON African-American)                                                                                                                                                                 
+
+Component                                                Latest Ref Rng & Units                   6/4/2020              5/21/2020             4/30/2020             4/16/2020             
+                                                                                                  12:22 PM               1:06 PM               1:54 PM               1:24 PM              
+Sodium                                                   136 - 144 mmol/L                         142                   142                   140                   139                   
+Potassium                                                3.3 - 5.3 mmol/L                         4.1                   4.3                   4.4                   4.3                   
+Chloride                                                 98 - 107 mmol/L                          105                   105                   102                   102                   
+CO2                                                      20 - 30 mmol/L                           26                    25                    24                    26                    
+Anion Gap                                                7 - 17                                   11                    12                    14                    11                    
+Glucose                                                  70 - 100 mg/dL                           85                    86                    109 (H)               83                    
+BUN                                                      5 - 18 mg/dL                             13                    11                    12                    11                    
+Creatinine                                               0.50 - 1.00 mg/dL                        0.35                  0.33                  0.31                  0.34                  
+Calcium                                                  8.8 - 10.2 mg/dL                         10.0                  9.7                   9.8                   9.7                   
+BUN/Creatinine Ratio                                     8.0 - 23.0                               37.1 (H)              33.3 (H)              38.7 (H)              32.4 (H)              
+Total Protein                                            6.6 - 8.7 g/dL                           7.4                   6.7                   7.3                   7.1                   
+Albumin                                                  3.6 - 4.9 g/dL                           4.5                   4.1                   4.4                   4.2                   
+Total Bilirubin                                          <=1.2 mg/dL                              0.2                   0.3                   0.4                   0.2                   
+Alkaline Phosphatase                                     50 - 480 U/L                             209                   196                   182                   177                   
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              13                    15                    12                    13                    
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              33                    35                    30                    27                    
+Globulin                                                 2.3 - 3.5 g/dL                           2.9                   2.6                   2.9                   2.9                   
+A/G Ratio                                                1.0 - 2.2                                1.6                   1.6                   1.5                   1.4                   
+AST/ALT Ratio                                            See Comment                              2.5                   2.3                   2.5                   2.1                   
+eGFR (Afr Amer)                                                                                                                                                                           
+eGFR (NON African-American)                                                                                                                                                               
+
+Component                                                Latest Ref Rng & Units                   3/26/2020             3/4/2020             1/16/2020             12/19/2019              
+                                                                                                   2:05 PM               1:05 PM              2:52 PM               1:24 PM                
+Sodium                                                   136 - 144 mmol/L                         139                   141                  137                   141                     
+Potassium                                                3.3 - 5.3 mmol/L                         4.2                   3.8                  4.5                   4.4                     
+Chloride                                                 98 - 107 mmol/L                          102                   105                  101                   104                     
+CO2                                                      20 - 30 mmol/L                           25                    24                   24                    24                      
+Anion Gap                                                7 - 17                                   12                    12                   12                    13                      
+Glucose                                                  70 - 100 mg/dL                           133 (H)               105 (H)              89                    109 (H)                 
+BUN                                                      5 - 18 mg/dL                             15                    14                   14                    16                      
+Creatinine                                               0.50 - 1.00 mg/dL                        0.36                  0.32                 0.32                  0.38                    
+Calcium                                                  8.8 - 10.2 mg/dL                         10.1                  9.4                  9.7                   10.0                    
+BUN/Creatinine Ratio                                     8.0 - 23.0                               41.7 (H)              43.8 (H)             43.8 (H)              42.1 (H)                
+Total Protein                                            6.6 - 8.7 g/dL                           7.6                   7.2                  7.8                   7.5                     
+Albumin                                                  3.6 - 4.9 g/dL                           4.5                   4.1                  3.9                   3.9                     
+Total Bilirubin                                          <=1.2 mg/dL                              0.3                   <0.2                 <0.2                  0.2                     
+Alkaline Phosphatase                                     50 - 480 U/L                             145                   154                  153                   194                     
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              10                    11                   9                     10                      
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              24                    22                   23                    28                      
+Globulin                                                 2.3 - 3.5 g/dL                           3.1                   3.1                  3.9 (H)               3.6 (H)                 
+A/G Ratio                                                1.0 - 2.2                                1.5                   1.3                  1.0                   1.1                     
+AST/ALT Ratio                                            See Comment                              2.4                   2.0                  2.6                   2.8                     
+eGFR (Afr Amer)                                                                                                                                                                            
+eGFR (NON African-American)                                                                                                                                                                
+
+Component                                                Latest Ref Rng & Units                   11/27/2019              11/8/2019             9/25/2019             9/24/2019             
+                                                                                                   1:09 PM                 3:30 PM               8:39 AM               6:57 AM              
+Sodium                                                   136 - 144 mmol/L                         140                     141                   144                   145 (H)               
+Potassium                                                3.3 - 5.3 mmol/L                         4.0                     4.0                   4.4                   3.3                   
+Chloride                                                 98 - 107 mmol/L                          104                     102                   106                   107                   
+CO2                                                      20 - 30 mmol/L                           22                      22                    25                    20                    
+Anion Gap                                                7 - 17                                   14                      17                    13                    18 (H)                
+Glucose                                                  70 - 100 mg/dL                           132 (H)                 97                    134 (H)               142 (H)               
+BUN                                                      5 - 18 mg/dL                             8                       14                    6                     5                     
+Creatinine                                               0.50 - 1.00 mg/dL                        0.32                    0.35                  0.19 (L)              0.22                  
+Calcium                                                  8.8 - 10.2 mg/dL                         9.8                     10.1                  8.8                   9.4                   
+BUN/Creatinine Ratio                                     8.0 - 23.0                               25.0 (H)                40.0 (H)              31.6 (H)              22.7                  
+Total Protein                                            6.6 - 8.7 g/dL                           7.5                     7.8                                                               
+Albumin                                                  3.6 - 4.9 g/dL                           4.3                     4.7                                                               
+Total Bilirubin                                          <=1.2 mg/dL                              0.2                     0.3                                                               
+Alkaline Phosphatase                                     50 - 480 U/L                             157                     137                                                               
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                              14                      11                                                                
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                              31                      25                                                                
+Globulin                                                 2.3 - 3.5 g/dL                           3.2                     3.1                                                               
+A/G Ratio                                                1.0 - 2.2                                1.3                     1.5                                                               
+AST/ALT Ratio                                            See Comment                              2.2                     2.3                                                               
+eGFR (Afr Amer)                                                                                                                                                                             
+eGFR (NON African-American)                                                                                                                                                                 
+
+Component                                                Latest Ref Rng & Units                   9/23/2019             9/19/2019             
+                                                                                                   9:03 PM              11:58 PM              
+Sodium                                                   136 - 144 mmol/L                         147 (H)               143                   
+Potassium                                                3.3 - 5.3 mmol/L                         3.8                   3.9                   
+Chloride                                                 98 - 107 mmol/L                          113 (H)               105                   
+CO2                                                      20 - 30 mmol/L                           20                    22                    
+Anion Gap                                                7 - 17                                   14                    16                    
+Glucose                                                  70 - 100 mg/dL                           101 (H)               121 (H)               
+BUN                                                      5 - 18 mg/dL                             6                     7                     
+Creatinine                                               0.50 - 1.00 mg/dL                        0.31                  0.36                  
+Calcium                                                  8.8 - 10.2 mg/dL                         9.3                   9.7                   
+BUN/Creatinine Ratio                                     8.0 - 23.0                               19.4                  19.4                  
+Total Protein                                            6.6 - 8.7 g/dL                                                 8.1                   
+Albumin                                                  3.6 - 4.9 g/dL                                                 4.7                   
+Total Bilirubin                                          <=1.2 mg/dL                                                    <0.2                  
+Alkaline Phosphatase                                     50 - 480 U/L                                                   140                   
+Alanine Aminotransferase (ALT)                           12 - 28 U/L                                                    13                    
+Aspartate Aminotransferase (AST)                         26 - 45 U/L                                                    29                    
+Globulin                                                 2.3 - 3.5 g/dL                                                 3.4                   
+A/G Ratio                                                1.0 - 2.2                                                      1.4                   
+AST/ALT Ratio                                            See Comment                                                    2.2                   
+eGFR (Afr Amer)                                                                                                                               
+eGFR (NON African-American)                                                                                                                   
